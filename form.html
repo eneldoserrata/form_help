@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+	<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+	<link rel="stylesheet" href="css/website_payment.css"/>
+    <script type="text/javascript" src="js/jquery.payment.js"></script>
+    <script type="text/javascript" src="js/payment_acquirer.js"></script>
+</head>
+<body>
+<div class="row">
+    <h4>Introduzca los datos de la tarjeta de crédito:</h4>
+    <form class="form-horizontal col-sm-4 oe_cc" role="form">
+        <div class="form-group col-sm-8">
+            <label class="control-label" for="cc_number">Número de Tarjeta</label>
+            <input type="tel" id="cc_number" class="form-control"/>
+            <div class="card_placeholder"></div>
+            <div class="visa"></div>
+        </div>
+        <div class="form-group col-sm-4">
+            <label class="control-label" for="cc_cvc">CVN</label>
+            <input type="text" id="cc_cvc" class="form-control" maxlength="4" palceholder="CVC"/>
+            <span class="input-group-btn">
+                <button class="btn btn-default" type="button">?</button>
+            </span>
+        </div>
+        <div class="form-group col-sm-7">
+            <label class="control-label" for="cc_holder_name">Nombre en la tarjeta</label>
+            <input type="text" id="cc_hoder_name" class="form-control"/>
+        </div>
+        <div class="form-group col-sm-5">
+            <label class="control-label" for="cc_expires_mm">Vencimiento</label>
+            <input type="text" id="cc_expiry" class="form-control" maxlength="7" placeholder="MM / YY"/>
+        </div>
+        <div class="control-group">
+            <div class="controls">
+                <button class="btn btn-success">Pagar</button>
+            </div>
+        </div>
+    </form>
+</div>
+</body>
+</html>

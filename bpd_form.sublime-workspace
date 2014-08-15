@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"odoo",
+				"odoo"
+			],
+			[
+				"jo",
+				"journal_id"
+			],
+			[
+				"acc",
+				"account_invoice"
+			],
+			[
+				"account_",
+				"account_invoice_line"
+			],
+			[
+				"cv",
+				"csvfile"
+			],
+			[
+				"session",
+				"sessionmaker"
+			],
+			[
+				"make",
+				"makehtml"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Snippet: html"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/payment_paypal/controllers/main.py",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/point_of_sale/__openerp__.py",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/payment_paypal/__openerp__.py",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/payment_paypal/views/payment_acquirer.xml",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/point_of_sale/views/point_of_sale.xml",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/point_of_sale/views/report_detailsofsales.xml",
+		"/Users/eneldoserrata/PycharmProjects/marcos_odoo/addons/payment_paypal/views/paypal.xml",
+		"/Users/eneldoserrata/PycharmProjects/marcos_openerp/marcos_addons/marcos_conciliation/security/account_conciliation_security.xml",
+		"/Users/eneldoserrata/PycharmProjects/marcos_openerp/marcos_addons/marcos_conciliation/security/account_conciliation_security.xsd",
+		"/Users/eneldoserrata/Downloads/account.account (2).csv",
+		"/Users/eneldoserrata/imprensorafiscalrd/ImpresoraFiscalRD/lib/ipf/epson.py",
+		"/Users/eneldoserrata/imprensorafiscalrd/ImpresoraFiscalRD/server.py",
+		"/Users/eneldoserrata/imprensorafiscalrd/ImpresoraFiscalRD/config/app.cfg",
+		"/Users/eneldoserrata/Desktop/LV1311.1",
+		"/Users/eneldoserrata/PycharmProjects/marcos_openerp/marcos_addons/marcos_pos_prod_avail/static/src/js/pos_customer.js",
+		"/Users/eneldoserrata/Downloads/openerp-8.0dev-20140120-000101/openerp/addons/portal_sale/portal_sale.py",
+		"/Users/eneldoserrata/Downloads/openerp-8.0dev-20140120-000101/openerp/addons/portal_sale/res_config.py",
+		"/Users/eneldoserrata/Desktop/Terminal Saved Output",
+		"/Users/eneldoserrata/pgadmin.log",
+		"/Users/eneldoserrata/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/data.py",
+		"/Users/eneldoserrata/Desktop/reto santiago/marcos/5304/html/index.html",
+		"/Users/eneldoserrata/PycharmProjects/marcos_openerp/implementaciones/Emprendimiento sostenible/Emprendimiento sostenible.",
+		"/Users/eneldoserrata/Downloads/anybox.recipe.openerp-1.7.1/README.rst",
+		"/Users/eneldoserrata/Downloads/anybox.recipe.openerp-1.7.1/buildbot/recipe-7.0.cfg",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/marcos_mezzanine_template/rail/theme/defaults.py",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/marcos_mezzanine_template/rail/theme/admin.py",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/marcos_mezzanine_template/rail/settings.py",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/module/marcos_pos-14-11-2013/marcos_pos_customer/static/src/js/pos_customer.js",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/module/marcos_pos-14-11-2013/marcos_pos_customer/pos_order/pos_order_view.xml",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/module/marcos_pos-14-11-2013/marcos_pos_customer/static/src/css/pos_customer.css",
+		"/Users/eneldoserrata/Documents/marcos/openerp/Dropbox/module/marcos_pos-14-11-2013/marcos_pos_customer/product/product.py",
+		"/Users/eneldoserrata/Downloads/xml_export_1",
+		"/Users/eneldoserrata/temp/account.xml",
+		"/Users/eneldoserrata/PycharmProjects/openerp-7.0-20131102-002522/my_addons/marcos/data/marcos_data.xml",
+		"/Users/eneldoserrata/PycharmProjects/openerp-7.0-20131102-002522/my_addons/marcos/data/account.account.type.xml",
+		"/Users/eneldoserrata/Desktop/1555",
+		"/Users/eneldoserrata/Documents/PythonDominicana/charlas/sphinx/Pydo 027 sphinx.ipynb",
+		"/Users/eneldoserrata/Documents/PythonDominicana/charlas/sphinx/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"aws",
+			"navbar-brand",
+			"carpel",
+			"warehouse_id",
+			"shop",
+			"warehouse",
+			"shop",
+			"product",
+			"debit",
+			"tax_amount",
+			"recon",
+			"Retencin",
+			"uom_id",
+			"umo_id",
+			"uml_id",
+			"uom_id",
+			"insert",
+			"retained_tax",
+			"supplier_taxes_id",
+			"749",
+			"refe",
+			"account_voucher_tra",
+			"this.numpadState.get('mode');",
+			"var mode = this.numpadState.get('mode');",
+			"parent_id",
+			"insert",
+			"account_move",
+			"move",
+			"POS8765",
+			"price_get_batch",
+			"shop_id",
+			"gr",
+			"shop_id",
+			"update \"",
+			"update",
+			"insert",
+			"total",
+			"property_account_position",
+			"insert",
+			"property_account_position",
+			"account_position",
+			"account_pos",
+			"account",
+			"insert",
+			"('selectedOrder').destroy();",
+			"remove",
+			"neworder-button",
+			"inv_type",
+			"search",
+			"seach",
+			"placeholder-ProductListWidget",
+			"set_product_list",
+			"rnc",
+			"picking_obj",
+			"cost",
+			"': ",
+			": ",
+			"delete",
+			"insert",
+			"update",
+			"delete",
+			"update",
+			"insert",
+			"HOUSE PAINT",
+			"BLANCO 00",
+			"HOUSE PAINT ACRILICA BLANCO",
+			"HOUSE",
+			"update",
+			"insert into",
+			"update",
+			"insert",
+			"pg_hba.conf",
+			"product_id",
+			"name=\"product_id\"",
+			"product_id",
+			"categ_id",
+			"cat_id",
+			"credit",
+			"static",
+			"theme",
+			"80A",
+			"fiscal",
+			"validateCurrentOrder",
+			"png",
+			"validate",
+			"png",
+			"account.journal",
+			"conf_o_income",
+			"tax_code_chart_root",
+			"\\<field name='name'\\>(.+)\\<\\/field\\>",
+			"tax_code_chart_root",
+			"tax_code_input_X",
+			"account_type_asset_view1",
+			"data_account_type_view",
+			"<[^>]*>([^<]*)<[^>]*>",
+			"conf_a_expense",
+			"l10n_do_base_data.xml",
+			"tax_code_root_id",
+			"account_root_id",
+			"uid",
+			"web.",
+			"pos:",
+			"self.pos",
+			"self.pos =",
+			"self.pos=",
+			"self.pos =",
+			"config_id",
+			"get_cashiers",
+			"uid",
+			"fetch",
+			"inherit",
+			"\">\n",
+			"back",
+			"deve",
+			"debug",
+			"pg",
+			"/var/pgsql_socket/.s.PGSQL.5432",
+			"PsycoConnection",
+			"sampleProductCategories",
+			"check_or_create_field",
+			"MPMapperExtension",
+			"after",
+			"add",
+			"leaf",
+			"sty",
+			"autodoc",
+			"math",
+			"png"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bpd_form.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 315.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
